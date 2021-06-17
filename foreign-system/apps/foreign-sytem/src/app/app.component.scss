@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+
+  &__brand {
+    width: 100%;
+    text-align: center;
+  }
+}
